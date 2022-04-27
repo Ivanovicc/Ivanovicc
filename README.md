@@ -1,24 +1,10 @@
-### Hello there! 👋
-![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
-<!--
-**Ivanovicc/Ivanovicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## About Me
+![Header image]
+## Sobre mi
 
 
-My name is Ivan Acosta Carabajal, and I am a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. Anything and everything that can be classified as technology💻 fascinates me.
+Mi nombre es Iván, soy un apasionado y creativo desarrollador🧑‍💻 con un enfoque orientado al frontend, la resolución de problemas y una incesante sed de conocimiento🧠. Todo lo que se puede clasificar como tecnología💻 me interesa.
 
-I follow a number of sports ranging from Football⚽, Formula1🏎️ to various eSports🖱️. Other than that, I love solving puzzles🧩 and listening to music🎶.
+Me gustan deportes como el Fútbol⚽, y la Fórmula1🏎️. Aparte de eso, me gusta dibujar🖌, ver anime📺 y escuchar música🎶.
 
-I am always open to new ideas and opportunities. You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/kavish-hukmani/) or reach out to me directly at [khukmani@gmail.com](mailto:khukmani@gmail.com)
+Siempre dispuesto a nuevas ideas y oportunidades. Puedes saber más sobre mí en mi [LinkedIn](https://www.linkedin.com/in/ivan-acosta-carabajal-085931190/) o ponerte en contacto conmigo directamente en [ivanacosta456@gmail.com](mailto:ivanacosta456@gmail.com)
+
