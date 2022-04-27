@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there! 👋
+![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 <!--
 **Ivanovicc/Ivanovicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
+
+My name is Ivan Acosta Carabajal, and I am a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. Anything and everything that can be classified as technology💻 fascinates me.
+
+I follow a number of sports ranging from Football⚽, Formula1🏎️ to various eSports🖱️. Other than that, I love solving puzzles🧩 and listening to music🎶.
+
+I am always open to new ideas and opportunities. You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/kavish-hukmani/) or reach out to me directly at [khukmani@gmail.com](mailto:khukmani@gmail.com)
