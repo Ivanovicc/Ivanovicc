@@ -9,5 +9,5 @@ Mi nombre es Iván, soy un apasionado y creativo desarrollador🧑‍💻 con un
 
 Me gustan deportes como el Fútbol⚽, y la Fórmula1🏎️. Aparte de eso, me gusta dibujar🖌, ver anime📺 y escuchar música🎶.
 
-Siempre dispuesto a nuevas ideas y oportunidades. Puedes saber más sobre mí en mi [LinkedIn](https://www.linkedin.com/in/ivan-acosta-carabajal-085931190/) o ponerte en contacto conmigo directamente en [ivanacosta456@gmail.com](mailto:ivanacosta456@gmail.com)
+Siempre dispuesto a nuevas ideas y oportunidades. Puedes saber más sobre mí en [LinkedIn](https://www.linkedin.com/in/ivan-acosta-carabajal-085931190/) o ponerte en contacto conmigo directamente en [ivanacosta456@gmail.com](mailto:ivanacosta456@gmail.com)
 
